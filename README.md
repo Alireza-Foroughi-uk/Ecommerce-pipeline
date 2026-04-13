@@ -2,7 +2,7 @@
 An end-to-end data engineering pipeline that generates, processes, and analyses e-commerce sales data using Apache Airflow, AWS S3, AWS Glue, and AWS Athena.
 
 ## Architecture 🏗️
-    ![Pipeline Architecture](architecture.png)
+![Pipeline Architecture](architecture.png)
 
 ## Tech Stack 🛠️
     - **Orchestration:** Apache Airflow 2.8 (AWS EC2)
