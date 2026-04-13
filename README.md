@@ -30,13 +30,16 @@
 
 ## Project Structure
 
+```
+ecommerce-pipeline/
 ├── dags/
-│   └── ecommerce_pipeline.py    # Airflow DAG
+│   └── ecommerce_pipeline.py
 ├── scripts/
-│   ├── generate_orders.py       # Data generation
-│   ├── transform.py             # Data transformation
-│   └── upload_to_s3.py         # S3 upload utility
+│   ├── generate_orders.py
+│   ├── transform.py
+│   └── upload_to_s3.py
 └── README.md
+```
 
 ## Setup
 
