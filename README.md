@@ -47,7 +47,7 @@ ecommerce-pipeline/
     2. Install dependencies: `pip install apache-airflow boto3 pandas faker`
     3. Add your AWS credentials to each script
     4. Copy `dags/ecommerce_pipeline.py` to your Airflow DAGs folder
-     5. Trigger the DAG from the Airflow UI
+    5. Trigger the DAG from the Airflow UI
 
 ## AWS Services Used
 
@@ -60,5 +60,5 @@ ecommerce-pipeline/
 
 ## Author
 
-    Alireza Foroughi — Junior Data Engineer
-    [LinkedIn](https://linkedin.com/in/alirezaforoughi) | [GitHub](https://github.com/Alireza-Foroughi-uk)
+Alireza Foroughi — Junior Data Engineer
+[LinkedIn](https://linkedin.com/in/alirezaforoughi) | [GitHub](https://github.com/Alireza-Foroughi-uk)
